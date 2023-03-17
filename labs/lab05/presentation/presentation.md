@@ -88,7 +88,7 @@ header-includes:
 
 - Просмотрели файл
 
-![рисунок](image/5.png){#fig:005 width=95%}
+![рисунок](image/5.png){#fig:005 width=95%}permission
 
 ## шаг 6
 
